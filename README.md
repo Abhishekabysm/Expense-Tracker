@@ -16,6 +16,10 @@ This is a simple Transaction Management App built with React. The app allows use
 - **Context API:** Used for state management to handle global state.
 - **CSS:** Used for styling components.
 
+## Live Preview
+
+You can see the app here [trackyourspend](https://trackyourspend.vercel.app/).
+
 ## Getting Started
 
 ### Prerequisites
